@@ -7,6 +7,13 @@
         "Allowoffline": true
     },
     {
+        "device_id": "9677aa532e003650",
+        "username": "Sikandar Sushil",
+        "password": "Brand Babu",
+        "expirydate": "31-12-9999",
+        "Allowoffline": true
+    }
+    {
         "device_id": "device456",
         "username": "user2",
         "password": "pass456",
