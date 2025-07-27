@@ -26,5 +26,12 @@
         "password": "098765",
         "expirydate": "31-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "655094f57de7ebc6",
+        "username": "rajveer",
+        "password": "abc123raj#01",
+        "expirydate": "28-7-2025",
+        "Allowoffline": false
     }
 ]
